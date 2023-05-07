@@ -20,3 +20,6 @@ El de la izquierda representa la composición del inventario mediante un gráfic
 El gráfico central es de lineas con los niveles de inventario máximo y mínimo definidos por la empresa, y el inventario de cada mes. Se incluye un gráfico de semi circulo con los meses de disponibilidad de inventario.
 
 Y por último un gráfico de cascada con el almacenamiento del inventario en el almacén.
+
+
+![Dashboard](https://user-images.githubusercontent.com/122362266/236689977-ab5c75d6-415e-4291-80a9-c9c6ab848082.PNG)
